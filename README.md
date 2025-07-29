@@ -1,9 +1,8 @@
-                                             # Приветствую! Я Валиева Анжелика  👨‍💻  
+# Приветствую! Я Валиева Анжелика  👨‍💻  
 **Junior Developer из Ижевска | Ищу стажировку**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Anzelika779)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anzelikavalieva511@gmail.com)
-
 
 ### 🛠️ Технологический стек  
 
@@ -25,15 +24,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D6?logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-
 ---
-
 ### 🎓 Образование
 **Компьютерная Академия TOP** (Ижевск)  
 Специализация: Разработка ПО (2023-2026)  
-
 ---
-
 ### 🏆 Проекты
 1. **Платформа для обучения (.NET C#)**  
    [![GitHub](https://img.shields.io/badge/Код-181717?logo=github)](https://github.com/AngelikaDev/NewRepoLearningPlatform.git)  
@@ -42,9 +37,7 @@
 2. **Фотохостинг (HTML/CSS)**  
    [![GitHub](https://img.shields.io/badge/Код-181717?logo=github)]()  
    *Экзаменационный проект с адаптивным дизайном*
-
 ---
-
 ### 📈 Статистика GitHub  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical&hide_border=true)](https://github.com/AngelikaDev)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AngelikaDev)
