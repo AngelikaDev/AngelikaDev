@@ -1,4 +1,4 @@
-# Приветствую! Я Валиева Анжелика  👨‍💻  
+                                             # Приветствую! Я Валиева Анжелика  👨‍💻  
 **Junior Developer из Ижевска | Ищу стажировку**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Anzelika779)
@@ -46,8 +46,8 @@
 ---
 
 ### 📈 Статистика GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical&hide_border=true)](https://github.com/<username>)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/<username>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical&hide_border=true)](https://github.com/AngelikaDev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AngelikaDev)
 
 ---
 
